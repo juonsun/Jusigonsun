@@ -1,0 +1,15 @@
+{
+  "name": "supplymap-dart-sync",
+  "version": "1.0.0",
+  "private": true,
+  "description": "공급망지도 사이트에 DART 전자공시 데이터를 자동으로 연동하기 위한 스크립트",
+  "type": "commonjs",
+  "scripts": {
+    "lookup-corp-codes": "node scripts/lookup-corp-codes.js",
+    "fetch-disclosures": "node scripts/fetch-disclosures.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "fast-xml-parser": "^4.3.6"
+  }
+}
