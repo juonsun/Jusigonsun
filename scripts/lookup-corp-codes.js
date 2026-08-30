@@ -59,7 +59,9 @@ async function main() {
   if (!entry) throw new Error("ZIP 안에서 CORPCODE.XML을 찾지 못했습니다.");
 
   const xml = entry.getData().toString("utf-8");
-  const parser = new XMLParser();
+  // parseTagValue: false — 그렇지 않으면 "005930" 같은 값이 숫자로 변환되면서
+  // 앞자리 0이 사라져(5930) 종목코드 매칭이 깨집니다. 항상 문자열로 유지합니다.
+  const parser = new XMLParser({ parseTagValue: false });
   const parsed = parser.parse(xml);
   const list = parsed?.result?.list || [];
 
