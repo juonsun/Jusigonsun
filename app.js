@@ -152,7 +152,7 @@
         <div class="company-oneliner">${esc(c.oneLiner)}</div>
         <div class="company-card-foot">
           <span>${esc(c.sector)}</span>
-          <span><span class="supplier-count">${c.suppliers.length}</span>개 협력사 수록</span>
+          <span><span class="supplier-count">${c.suppliers.length}</span>건의 관련 정보 수록</span>
         </div>
       </a>
     `;
@@ -187,7 +187,7 @@
             <span>${esc(c.market)}</span>
             <span>${esc(c.ticker)}</span>
             <span>${esc(c.sector)}</span>
-            <span>협력사 ${c.suppliers.length}곳 수록</span>
+            <span>관련 정보 ${c.suppliers.length}건 수록</span>
           </div>
           <div class="detail-oneliner">${esc(c.oneLiner)}</div>
           ${c.note ? `<div class="detail-note">💡 ${esc(c.note)}</div>` : ""}
@@ -277,27 +277,30 @@
   }
 
   function renderCategoryGroup(cat, items) {
+    const catDef = DATA.categories[cat] || {};
+    const nameHeader = catDef.nameHeader || "협력사";
+    const itemHeader = catDef.itemHeader || "공급 품목";
     return `
       <div class="cat-group">
         <div class="cat-group-head">
           ${badge(cat)}
-          <span class="count">${items.length}곳 · ${esc(DATA.categories[cat].desc)}</span>
+          <span class="count">${items.length}건 · ${esc(catDef.desc || "")}</span>
         </div>
         <table class="supplier-table">
           <thead>
             <tr>
-              <th style="width:22%">협력사</th>
+              <th style="width:22%">${esc(nameHeader)}</th>
               <th style="width:12%">종목코드</th>
-              <th style="width:36%">공급 품목</th>
+              <th style="width:36%">${esc(itemHeader)}</th>
               <th style="width:30%">출처</th>
             </tr>
           </thead>
           <tbody>
             ${items.map((s) => `
               <tr>
-                <td data-label="협력사" class="supplier-name">${esc(s.name)}</td>
+                <td data-label="${esc(nameHeader)}" class="supplier-name">${esc(s.name)}</td>
                 <td data-label="종목코드" class="supplier-ticker">${s.ticker ? esc(s.ticker) : "비상장/계열 비공개"}</td>
-                <td data-label="공급 품목">${esc(s.item)}</td>
+                <td data-label="${esc(itemHeader)}">${esc(s.item)}</td>
                 <td data-label="출처"><a class="source-link" href="${esc(s.source.url)}" target="_blank" rel="noopener">${esc(s.source.title)} ↗</a></td>
               </tr>
             `).join("")}

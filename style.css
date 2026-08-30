@@ -19,6 +19,8 @@
   --series-4: #eda100; /* yellow  -> 계열사 */
   --series-5: #e87ba4; /* magenta -> 완성품 */
   --series-6: #008300; /* green   -> 서비스 */
+  --series-7: #7c5cbf; /* purple  -> 사업부문 */
+  --series-8: #5b7083; /* slate   -> 주요고객 */
 
   --radius-lg: 16px;
   --radius-md: 10px;
@@ -44,6 +46,8 @@
     --series-4: #c98500;
     --series-5: #d55181;
     --series-6: #008300;
+    --series-7: #9b7fd4;
+    --series-8: #7f97ac;
   }
 }
 :root[data-theme="dark"]{
@@ -64,6 +68,8 @@
   --series-4: #c98500;
   --series-5: #d55181;
   --series-6: #008300;
+  --series-7: #9b7fd4;
+  --series-8: #7f97ac;
 }
 
 *{ box-sizing: border-box; }
@@ -193,12 +199,16 @@ img{ max-width: 100%; }
 .badge[data-cat="계열사"]{ color: #8a6d00; background: color-mix(in srgb, var(--series-4) 18%, transparent); }
 .badge[data-cat="완성품"]{ color: var(--series-5); background: color-mix(in srgb, var(--series-5) 14%, transparent); }
 .badge[data-cat="서비스"]{ color: var(--series-6); background: color-mix(in srgb, var(--series-6) 14%, transparent); }
+.badge[data-cat="사업부문"]{ color: var(--series-7); background: color-mix(in srgb, var(--series-7) 14%, transparent); }
+.badge[data-cat="주요고객"]{ color: var(--series-8); background: color-mix(in srgb, var(--series-8) 14%, transparent); }
 .badge .badge-dot[data-cat="소재"]  { background: var(--series-1); }
 .badge .badge-dot[data-cat="부품"]  { background: var(--series-2); }
 .badge .badge-dot[data-cat="장비"]  { background: var(--series-3); }
 .badge .badge-dot[data-cat="계열사"]{ background: var(--series-4); }
 .badge .badge-dot[data-cat="완성품"]{ background: var(--series-5); }
 .badge .badge-dot[data-cat="서비스"]{ background: var(--series-6); }
+.badge .badge-dot[data-cat="사업부문"]{ background: var(--series-7); }
+.badge .badge-dot[data-cat="주요고객"]{ background: var(--series-8); }
 
 /* ---------- detail page ---------- */
 .breadcrumb{ font-size:13px; color: var(--text-muted); margin-bottom:14px; }
@@ -264,6 +274,8 @@ img{ max-width: 100%; }
   padding: 22px 20px 40px; color: var(--text-muted); font-size:12.5px;
 }
 .site-footer-inner{ max-width:1120px; margin:0 auto; display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px; }
+.footer-links{ display:flex; gap:16px; flex-wrap:wrap; }
+.footer-links a:hover{ color: var(--text-primary); text-decoration:underline; }
 
 /* ---------- empty state ---------- */
 .empty-state{
@@ -280,6 +292,4 @@ img{ max-width: 100%; }
   .supplier-table td:before{
     content: attr(data-label); display:block; font-size:11px; color: var(--text-muted); margin-bottom:2px;
   }
-  .footer-links{ display:flex; gap:16px; flex-wrap:wrap; }
-.footer-links a:hover{ color: var(--text-primary); text-decoration:underline; }
 }
