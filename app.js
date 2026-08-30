@@ -47,6 +47,10 @@
       renderDetail(param);
     } else if (path === "about") {
       renderAbout();
+    } else if (path === "privacy") {
+      renderPrivacy();
+    } else if (path === "contact") {
+      renderContact();
     } else {
       renderHome();
     }
@@ -329,6 +333,84 @@
 
         <h2>데이터 갱신</h2>
         <p>마지막 업데이트: ${esc(DATA.updatedAt)}. 앞으로 다룰 기업과 협력사 정보를 지속적으로 확대할 예정입니다.</p>
+      </div>
+    `;
+  }
+
+  /* ---------------- PRIVACY ---------------- */
+  const CONTACT_EMAIL = "juonsun2026@gmail.com";
+
+  function renderPrivacy() {
+    root.innerHTML = `
+      <div class="hero">
+        <h1>개인정보처리방침</h1>
+      </div>
+      <div class="prose">
+        <p>공급망지도(SupplyMap, 이하 "사이트")는 이용자의 개인정보를 소중히 다루며, 관련 법령을 준수합니다.
+        이 페이지는 사이트가 어떤 정보를 어떻게 다루는지 안내합니다. 시행일자: ${esc(DATA.updatedAt)}</p>
+
+        <h2>1. 수집하는 개인정보 항목</h2>
+        <p>사이트는 회원가입, 로그인, 댓글 등 이용자가 직접 개인정보를 입력하는 기능을 제공하지 않습니다.
+        다만 사이트 호스팅 및 운영 과정에서 아래와 같은 정보가 자동으로 수집될 수 있습니다.</p>
+        <ul style="padding-left:20px; margin:8px 0;">
+          <li>접속 IP 주소, 브라우저 종류 및 버전, 접속 일시, 방문 페이지 등 서비스 이용 기록</li>
+          <li>기기 정보(운영체제, 화면 해상도 등)</li>
+        </ul>
+        <p>이 정보는 호스팅 서비스(GitHub Pages) 및 향후 연동될 수 있는 분석 도구(Google Search Console 등)를 통해 통계적으로만 수집·활용되며, 개인을 특정하는 목적으로 사용하지 않습니다.</p>
+
+        <h2>2. 쿠키 및 광고 서비스 이용 안내</h2>
+        <p>사이트는 Google AdSense를 비롯한 광고 서비스를 게재할 수 있습니다. Google 등 광고 제공업체는 쿠키를 사용하여
+        이용자가 이 사이트 및 다른 사이트를 방문한 이력을 기반으로 맞춤 광고를 제공할 수 있습니다.</p>
+        <ul style="padding-left:20px; margin:8px 0;">
+          <li>Google은 광고 쿠키를 사용하여 사용자가 사이트를 방문한 이력을 기반으로 광고를 게재합니다.</li>
+          <li>이용자는 <a href="https://adssettings.google.com/authenticated" target="_blank" rel="noopener" style="color:var(--series-1)">Google 광고 설정</a>에서 맞춤 광고를 선택 해제할 수 있습니다.</li>
+          <li>제3자 광고 쿠키 사용에 대한 자세한 내용은 <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener" style="color:var(--series-1)">Google의 광고 관련 정책 안내</a>를 참고해주세요.</li>
+        </ul>
+
+        <h2>3. 개인정보의 제3자 제공</h2>
+        <p>사이트는 이용자의 개인정보를 원칙적으로 외부에 제공하지 않습니다. 다만 위 2항에서 안내한 광고 서비스 제공업체가
+        광고 게재를 위해 쿠키 등 비식별 정보를 자체적으로 수집·활용할 수 있습니다.</p>
+
+        <h2>4. 개인정보의 보유 및 이용 기간</h2>
+        <p>서버 로그 등 자동 수집 정보는 통계 분석 목적을 달성한 후 합리적인 기간 내에 파기하며,
+        관련 법령에서 별도로 정한 보존 기간이 있는 경우 이를 따릅니다.</p>
+
+        <h2>5. 이용자의 권리</h2>
+        <p>이용자는 언제든지 사이트 운영자에게 자신과 관련된 정보 처리에 대해 문의할 수 있습니다.
+        문의는 아래 이메일로 접수해주세요.</p>
+
+        <h2>6. 문의처</h2>
+        <p>개인정보처리방침에 대한 문의: <a href="mailto:${esc(CONTACT_EMAIL)}" style="color:var(--series-1)">${esc(CONTACT_EMAIL)}</a></p>
+
+        <h2>7. 고지의 의무</h2>
+        <p>이 개인정보처리방침은 법령·정책 또는 사이트 운영상의 필요에 따라 변경될 수 있으며,
+        변경 시 이 페이지를 통해 고지합니다.</p>
+      </div>
+    `;
+  }
+
+  /* ---------------- CONTACT ---------------- */
+  function renderContact() {
+    root.innerHTML = `
+      <div class="hero">
+        <h1>문의</h1>
+        <p>사이트 이용 중 궁금한 점이나 발견하신 오류, 데이터 정정·추가 요청이 있으시면 아래 이메일로 편하게 연락해주세요.</p>
+      </div>
+      <div class="prose">
+        <div class="disclaimer-box" style="font-size:14.5px;">
+          📧 <a href="mailto:${esc(CONTACT_EMAIL)}" style="color:var(--series-1); font-weight:700;">${esc(CONTACT_EMAIL)}</a>
+        </div>
+
+        <h2>이런 문의를 받고 있어요</h2>
+        <p>다음과 같은 내용으로 문의해주시면 빠르게 확인 후 답변 또는 반영해드립니다.</p>
+        <ul style="padding-left:20px; margin:8px 0;">
+          <li>협력사·공급망 정보의 오류 제보 또는 정정 요청</li>
+          <li>새로 다뤄줬으면 하는 기업 추천</li>
+          <li>제휴·광고 관련 문의</li>
+          <li>저작권 또는 출처 표기 관련 문의</li>
+          <li>기타 사이트 이용 관련 문의</li>
+        </ul>
+        <p>가능한 한 빠르게 답변드리려 노력하지만, 문의량에 따라 답변까지 며칠 정도 소요될 수 있는 점 양해 부탁드립니다.</p>
       </div>
     `;
   }
