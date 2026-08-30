@@ -280,4 +280,6 @@ img{ max-width: 100%; }
   .supplier-table td:before{
     content: attr(data-label); display:block; font-size:11px; color: var(--text-muted); margin-bottom:2px;
   }
+  .footer-links{ display:flex; gap:16px; flex-wrap:wrap; }
+.footer-links a:hover{ color: var(--text-primary); text-decoration:underline; }
 }
