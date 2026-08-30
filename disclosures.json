@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T05:52:41.465Z",
+  "generatedAt": "2026-08-30T11:10:19.970Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -9,5 +9,276 @@
     "공급협약",
     "양해각서"
   ],
-  "items": []
+  "items": [
+    {
+      "companyId": "267260",
+      "companyName": "HD현대일렉트릭",
+      "stockCode": "267260",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "HD현대일렉트릭",
+      "receiptDate": "20260827",
+      "receiptNo": "20260827800365",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827800365"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260825",
+      "receiptNo": "20260825800661",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260825800661"
+    },
+    {
+      "companyId": "042660",
+      "companyName": "한화오션",
+      "stockCode": "042660",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "한화오션",
+      "receiptDate": "20260825",
+      "receiptNo": "20260825800541",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260825800541"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260824",
+      "receiptNo": "20260824800125",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824800125"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260824",
+      "receiptNo": "20260824800389",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824800389"
+    },
+    {
+      "companyId": "010120",
+      "companyName": "LS ELECTRIC",
+      "stockCode": "010120",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "엘에스일렉트릭",
+      "receiptDate": "20260824",
+      "receiptNo": "20260824800095",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824800095"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260810",
+      "receiptNo": "20260810800150",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810800150"
+    },
+    {
+      "companyId": "042660",
+      "companyName": "한화오션",
+      "stockCode": "042660",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "한화오션",
+      "receiptDate": "20260803",
+      "receiptNo": "20260803800706",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260803800706"
+    },
+    {
+      "companyId": "042660",
+      "companyName": "한화오션",
+      "stockCode": "042660",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "한화오션",
+      "receiptDate": "20260731",
+      "receiptNo": "20260731800216",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260731800216"
+    },
+    {
+      "companyId": "267260",
+      "companyName": "HD현대일렉트릭",
+      "stockCode": "267260",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "HD현대일렉트릭",
+      "receiptDate": "20260731",
+      "receiptNo": "20260731801146",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260731801146"
+    },
+    {
+      "companyId": "042660",
+      "companyName": "한화오션",
+      "stockCode": "042660",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "한화오션",
+      "receiptDate": "20260715",
+      "receiptNo": "20260715800071",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715800071"
+    },
+    {
+      "companyId": "298040",
+      "companyName": "효성중공업",
+      "stockCode": "298040",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "효성중공업",
+      "receiptDate": "20260715",
+      "receiptNo": "20260715800752",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715800752"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260713",
+      "receiptNo": "20260713800202",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713800202"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260709",
+      "receiptNo": "20260709800139",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709800139"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260701",
+      "receiptNo": "20260701800239",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260701800239"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260630",
+      "receiptNo": "20260630800761",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630800761"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260629",
+      "receiptNo": "20260629800351",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260629800351"
+    },
+    {
+      "companyId": "298040",
+      "companyName": "효성중공업",
+      "stockCode": "298040",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "효성중공업",
+      "receiptDate": "20260623",
+      "receiptNo": "20260623800549",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260623800549"
+    },
+    {
+      "companyId": "298040",
+      "companyName": "효성중공업",
+      "stockCode": "298040",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "효성중공업",
+      "receiptDate": "20260622",
+      "receiptNo": "20260622800553",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260622800553"
+    },
+    {
+      "companyId": "207940",
+      "companyName": "삼성바이오로직스",
+      "stockCode": "207940",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "삼성바이오로직스",
+      "receiptDate": "20260622",
+      "receiptNo": "20260622800686",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260622800686"
+    },
+    {
+      "companyId": "042660",
+      "companyName": "한화오션",
+      "stockCode": "042660",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "한화오션",
+      "receiptDate": "20260619",
+      "receiptNo": "20260619800742",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260619800742"
+    },
+    {
+      "companyId": "207940",
+      "companyName": "삼성바이오로직스",
+      "stockCode": "207940",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "삼성바이오로직스",
+      "receiptDate": "20260617",
+      "receiptNo": "20260617800458",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260617800458"
+    },
+    {
+      "companyId": "042660",
+      "companyName": "한화오션",
+      "stockCode": "042660",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "한화오션",
+      "receiptDate": "20260612",
+      "receiptNo": "20260612801030",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260612801030"
+    },
+    {
+      "companyId": "207940",
+      "companyName": "삼성바이오로직스",
+      "stockCode": "207940",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "삼성바이오로직스",
+      "receiptDate": "20260609",
+      "receiptNo": "20260609800652",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609800652"
+    },
+    {
+      "companyId": "010120",
+      "companyName": "LS ELECTRIC",
+      "stockCode": "010120",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자율공시)              ",
+      "filerName": "엘에스일렉트릭",
+      "receiptDate": "20260605",
+      "receiptNo": "20260605800561",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260605800561"
+    },
+    {
+      "companyId": "010120",
+      "companyName": "LS ELECTRIC",
+      "stockCode": "010120",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자율공시)              ",
+      "filerName": "엘에스일렉트릭",
+      "receiptDate": "20260605",
+      "receiptNo": "20260605800568",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260605800568"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260601",
+      "receiptNo": "20260601800400",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260601800400"
+    }
+  ]
 }
