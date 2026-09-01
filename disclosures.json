@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T01:06:23.849Z",
+  "generatedAt": "2026-09-01T23:53:14.442Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,16 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "042660",
+      "companyName": "한화오션",
+      "stockCode": "042660",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "한화오션",
+      "receiptDate": "20260901",
+      "receiptNo": "20260901800108",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901800108"
+    },
     {
       "companyId": "267260",
       "companyName": "HD현대일렉트릭",
