@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T23:58:51.329Z",
+  "generatedAt": "2026-09-04T23:50:13.563Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -279,26 +279,6 @@
       "receiptDate": "20260609",
       "receiptNo": "20260609800652",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609800652"
-    },
-    {
-      "companyId": "010120",
-      "companyName": "LS ELECTRIC",
-      "stockCode": "010120",
-      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자율공시)              ",
-      "filerName": "엘에스일렉트릭",
-      "receiptDate": "20260605",
-      "receiptNo": "20260605800561",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260605800561"
-    },
-    {
-      "companyId": "010120",
-      "companyName": "LS ELECTRIC",
-      "stockCode": "010120",
-      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자율공시)              ",
-      "filerName": "엘에스일렉트릭",
-      "receiptDate": "20260605",
-      "receiptNo": "20260605800568",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260605800568"
     }
   ]
 }
