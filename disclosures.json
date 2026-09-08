@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T23:37:31.823Z",
+  "generatedAt": "2026-09-08T00:04:35.536Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -269,16 +269,6 @@
       "receiptDate": "20260612",
       "receiptNo": "20260612801030",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260612801030"
-    },
-    {
-      "companyId": "207940",
-      "companyName": "삼성바이오로직스",
-      "stockCode": "207940",
-      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "filerName": "삼성바이오로직스",
-      "receiptDate": "20260609",
-      "receiptNo": "20260609800652",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609800652"
     }
   ]
 }
