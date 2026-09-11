@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:51:38.103Z",
+  "generatedAt": "2026-09-11T23:59:13.052Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -289,16 +289,6 @@
       "receiptDate": "20260617",
       "receiptNo": "20260617800458",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260617800458"
-    },
-    {
-      "companyId": "042660",
-      "companyName": "한화오션",
-      "stockCode": "042660",
-      "reportName": "단일판매ㆍ공급계약체결              ",
-      "filerName": "한화오션",
-      "receiptDate": "20260612",
-      "receiptNo": "20260612801030",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260612801030"
     }
   ]
 }
