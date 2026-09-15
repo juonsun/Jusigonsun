@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T23:58:18.537Z",
+  "generatedAt": "2026-09-15T00:24:20.066Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,36 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "298040",
+      "companyName": "효성중공업",
+      "stockCode": "298040",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "효성중공업",
+      "receiptDate": "20260915",
+      "receiptNo": "20260915800147",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800147"
+    },
+    {
+      "companyId": "298040",
+      "companyName": "효성중공업",
+      "stockCode": "298040",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "효성중공업",
+      "receiptDate": "20260915",
+      "receiptNo": "20260915800149",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915800149"
+    },
+    {
+      "companyId": "298040",
+      "companyName": "효성중공업",
+      "stockCode": "298040",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "효성중공업",
+      "receiptDate": "20260914",
+      "receiptNo": "20260914800537",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914800537"
+    },
     {
       "companyId": "207940",
       "companyName": "삼성바이오로직스",
