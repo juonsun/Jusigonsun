@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T23:58:27.625Z",
+  "generatedAt": "2026-09-22T00:39:26.077Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,16 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "042660",
+      "companyName": "한화오션",
+      "stockCode": "042660",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "한화오션",
+      "receiptDate": "20260921",
+      "receiptNo": "20260921800302",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921800302"
+    },
     {
       "companyId": "298040",
       "companyName": "효성중공업",
@@ -269,36 +279,6 @@
       "receiptDate": "20260629",
       "receiptNo": "20260629800351",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260629800351"
-    },
-    {
-      "companyId": "298040",
-      "companyName": "효성중공업",
-      "stockCode": "298040",
-      "reportName": "단일판매ㆍ공급계약체결              ",
-      "filerName": "효성중공업",
-      "receiptDate": "20260623",
-      "receiptNo": "20260623800549",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260623800549"
-    },
-    {
-      "companyId": "298040",
-      "companyName": "효성중공업",
-      "stockCode": "298040",
-      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "filerName": "효성중공업",
-      "receiptDate": "20260622",
-      "receiptNo": "20260622800553",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260622800553"
-    },
-    {
-      "companyId": "207940",
-      "companyName": "삼성바이오로직스",
-      "stockCode": "207940",
-      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "filerName": "삼성바이오로직스",
-      "receiptDate": "20260622",
-      "receiptNo": "20260622800686",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260622800686"
     }
   ]
 }
