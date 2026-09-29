@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:25:19.966Z",
+  "generatedAt": "2026-09-29T01:37:25.118Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,26 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "034730",
+      "companyName": "SK",
+      "stockCode": "034730",
+      "reportName": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "SK",
+      "receiptDate": "20260928",
+      "receiptNo": "20260928800431",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928800431"
+    },
+    {
+      "companyId": "042660",
+      "companyName": "한화오션",
+      "stockCode": "042660",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "한화오션",
+      "receiptDate": "20260928",
+      "receiptNo": "20260928800496",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928800496"
+    },
     {
       "companyId": "042660",
       "companyName": "한화오션",
@@ -259,16 +279,6 @@
       "receiptDate": "20260701",
       "receiptNo": "20260701800239",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260701800239"
-    },
-    {
-      "companyId": "009540",
-      "companyName": "HD한국조선해양",
-      "stockCode": "009540",
-      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-      "filerName": "HD한국조선해양",
-      "receiptDate": "20260630",
-      "receiptNo": "20260630800761",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630800761"
     }
   ]
 }
