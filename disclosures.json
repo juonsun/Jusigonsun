@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:37:25.118Z",
+  "generatedAt": "2026-09-30T01:09:40.737Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -269,16 +269,6 @@
       "receiptDate": "20260709",
       "receiptNo": "20260709800139",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709800139"
-    },
-    {
-      "companyId": "009540",
-      "companyName": "HD한국조선해양",
-      "stockCode": "009540",
-      "reportName": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-      "filerName": "HD한국조선해양",
-      "receiptDate": "20260701",
-      "receiptNo": "20260701800239",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260701800239"
     }
   ]
 }
