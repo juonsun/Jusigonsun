@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:09:40.737Z",
+  "generatedAt": "2026-10-01T01:09:48.143Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,36 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "010120",
+      "companyName": "LS ELECTRIC",
+      "stockCode": "010120",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "엘에스일렉트릭",
+      "receiptDate": "20261001",
+      "receiptNo": "20261001800079",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800079"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20260930",
+      "receiptNo": "20260930800164",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930800164"
+    },
+    {
+      "companyId": "298040",
+      "companyName": "효성중공업",
+      "stockCode": "298040",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "효성중공업",
+      "receiptDate": "20260930",
+      "receiptNo": "20260930800924",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930800924"
+    },
     {
       "companyId": "034730",
       "companyName": "SK",
