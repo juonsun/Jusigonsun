@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T01:09:48.143Z",
+  "generatedAt": "2026-10-02T01:26:09.955Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -19,6 +19,16 @@
       "receiptDate": "20261001",
       "receiptNo": "20261001800079",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800079"
+    },
+    {
+      "companyId": "373220",
+      "companyName": "LG에너지솔루션",
+      "stockCode": "373220",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "LG에너지솔루션",
+      "receiptDate": "20261001",
+      "receiptNo": "20261001800119",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800119"
     },
     {
       "companyId": "009540",
