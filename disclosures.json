@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:26:09.955Z",
+  "generatedAt": "2026-10-03T01:00:07.516Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,16 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "207940",
+      "companyName": "삼성바이오로직스",
+      "stockCode": "207940",
+      "reportName": "단일판매ㆍ공급계약체결(자율공시)              ",
+      "filerName": "삼성바이오로직스",
+      "receiptDate": "20261002",
+      "receiptNo": "20261002800830",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002800830"
+    },
     {
       "companyId": "010120",
       "companyName": "LS ELECTRIC",
