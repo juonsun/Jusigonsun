@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T00:00:18.339Z",
+  "generatedAt": "2026-10-20T00:58:26.096Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,16 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "010120",
+      "companyName": "LS ELECTRIC",
+      "stockCode": "010120",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "엘에스일렉트릭",
+      "receiptDate": "20261019",
+      "receiptNo": "20261019800108",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800108"
+    },
     {
       "companyId": "009540",
       "companyName": "HD한국조선해양",
