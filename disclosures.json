@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:18:04.112Z",
+  "generatedAt": "2026-10-28T01:03:07.095Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,16 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "298040",
+      "companyName": "효성중공업",
+      "stockCode": "298040",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "효성중공업",
+      "receiptDate": "20261027",
+      "receiptNo": "20261027800518",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800518"
+    },
     {
       "companyId": "009540",
       "companyName": "HD한국조선해양",
