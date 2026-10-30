@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:39:01.354Z",
+  "generatedAt": "2026-10-30T01:43:50.920Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,16 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "042660",
+      "companyName": "한화오션",
+      "stockCode": "042660",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "한화오션",
+      "receiptDate": "20261030",
+      "receiptNo": "20261030800228",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800228"
+    },
     {
       "companyId": "298040",
       "companyName": "효성중공업",
@@ -359,26 +369,6 @@
       "receiptDate": "20260803",
       "receiptNo": "20260803800706",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260803800706"
-    },
-    {
-      "companyId": "042660",
-      "companyName": "한화오션",
-      "stockCode": "042660",
-      "reportName": "단일판매ㆍ공급계약체결              ",
-      "filerName": "한화오션",
-      "receiptDate": "20260731",
-      "receiptNo": "20260731800216",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260731800216"
-    },
-    {
-      "companyId": "267260",
-      "companyName": "HD현대일렉트릭",
-      "stockCode": "267260",
-      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "filerName": "HD현대일렉트릭",
-      "receiptDate": "20260731",
-      "receiptNo": "20260731801146",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260731801146"
     }
   ]
 }
