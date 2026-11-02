@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:48:51.582Z",
+  "generatedAt": "2026-11-02T01:22:11.427Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,16 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "207940",
+      "companyName": "삼성바이오로직스",
+      "stockCode": "207940",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "filerName": "삼성바이오로직스",
+      "receiptDate": "20261102",
+      "receiptNo": "20261102800004",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800004"
+    },
     {
       "companyId": "042660",
       "companyName": "한화오션",
@@ -359,16 +369,6 @@
       "receiptDate": "20260810",
       "receiptNo": "20260810800150",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810800150"
-    },
-    {
-      "companyId": "042660",
-      "companyName": "한화오션",
-      "stockCode": "042660",
-      "reportName": "단일판매ㆍ공급계약체결              ",
-      "filerName": "한화오션",
-      "receiptDate": "20260803",
-      "receiptNo": "20260803800706",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260803800706"
     }
   ]
 }
