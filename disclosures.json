@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T01:22:11.427Z",
+  "generatedAt": "2026-11-03T03:22:38.539Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -10,6 +10,26 @@
     "양해각서"
   ],
   "items": [
+    {
+      "companyId": "207940",
+      "companyName": "삼성바이오로직스",
+      "stockCode": "207940",
+      "reportName": "단일판매ㆍ공급계약체결              ",
+      "filerName": "삼성바이오로직스",
+      "receiptDate": "20261103",
+      "receiptNo": "20261103800043",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800043"
+    },
+    {
+      "companyId": "009540",
+      "companyName": "HD한국조선해양",
+      "stockCode": "009540",
+      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "filerName": "HD한국조선해양",
+      "receiptDate": "20261102",
+      "receiptNo": "20261102800620",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800620"
+    },
     {
       "companyId": "207940",
       "companyName": "삼성바이오로직스",
