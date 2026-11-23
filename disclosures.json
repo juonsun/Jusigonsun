@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:58:16.683Z",
+  "generatedAt": "2026-11-23T02:23:46.428Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -399,36 +399,6 @@
       "receiptDate": "20260825",
       "receiptNo": "20260825800541",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260825800541"
-    },
-    {
-      "companyId": "009540",
-      "companyName": "HD한국조선해양",
-      "stockCode": "009540",
-      "reportName": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-      "filerName": "HD한국조선해양",
-      "receiptDate": "20260824",
-      "receiptNo": "20260824800125",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824800125"
-    },
-    {
-      "companyId": "009540",
-      "companyName": "HD한국조선해양",
-      "stockCode": "009540",
-      "reportName": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-      "filerName": "HD한국조선해양",
-      "receiptDate": "20260824",
-      "receiptNo": "20260824800389",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824800389"
-    },
-    {
-      "companyId": "010120",
-      "companyName": "LS ELECTRIC",
-      "stockCode": "010120",
-      "reportName": "단일판매ㆍ공급계약체결              ",
-      "filerName": "엘에스일렉트릭",
-      "receiptDate": "20260824",
-      "receiptNo": "20260824800095",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824800095"
     }
   ]
 }
