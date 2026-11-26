@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:49:14.821Z",
+  "generatedAt": "2026-11-26T04:01:26.523Z",
   "lookbackDays": 90,
   "keywords": [
     "단일판매",
@@ -379,16 +379,6 @@
       "receiptDate": "20260901",
       "receiptNo": "20260901800108",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901800108"
-    },
-    {
-      "companyId": "267260",
-      "companyName": "HD현대일렉트릭",
-      "stockCode": "267260",
-      "reportName": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "filerName": "HD현대일렉트릭",
-      "receiptDate": "20260827",
-      "receiptNo": "20260827800365",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260827800365"
     }
   ]
 }
